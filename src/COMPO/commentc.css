@@ -1,0 +1,7 @@
+.border td{
+    color: antiquewhite;
+    background-color: rgb(149, 9, 214);
+}
+.border th{
+    background-color: burlywood;
+}

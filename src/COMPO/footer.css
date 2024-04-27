@@ -1,0 +1,26 @@
+.foot{
+    background-color: chocolate;
+    padding: 25px 0;
+}
+.foot p{
+    width: 70%;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.flax_1{
+    display: flex;
+    justify-content: center;
+}
+.flax_1 li{
+    list-style: none;
+    padding: 2px 5px;
+}
+.flax_1 li:hover{
+    background: rebeccapurple;
+    padding: 1px 10px;
+    border-radius: 5px;
+    margin:0 2px;
+}

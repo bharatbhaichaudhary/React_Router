@@ -1,0 +1,32 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+    padding: 10px 0;
+}
+.logo{
+   color: brown;
+   font-size: 30px;
+   padding-left: 40px;
+   font-family: monospace;
+   font-weight: 600;
+}
+.link{
+        display: flex;
+        list-style: none;
+        padding: 10px 100px;
+}
+.home_link{
+    color: rgb(23, 22, 24);
+    text-decoration: none;
+    padding: 5px 20px; 
+   margin: 5px;
+}
+.home_link:hover{
+  background-color: black;
+  color: azure;
+  margin: 0 10px;
+  border-radius: 10px;
+
+}
